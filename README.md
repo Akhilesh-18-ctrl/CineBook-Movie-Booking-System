@@ -125,20 +125,3 @@ npm start
 ```
 
 ---
-
-## 🔐 Authorized Admin Gate Access
-For demonstration or administrative auditing without creating a theater owner account:
-1. Click **`⚙️ Admin`** in the navigation bar.
-2. Access full operational control over shows, movies, parking rates, snacks, analytics, and IoT telemetry.
-
----
-
-## 👨‍💻 Author & Maintainer
-**Vishal Sudha Arul**  
-*Full-Stack Engineer & UI/UX Developer*  
-* GitHub: [@VishalSudhaArul](https://github.com/VishalSudhaArul)
-
----
-
-## 📄 License
-Distributed under the MIT License. See `LICENSE` for details.
